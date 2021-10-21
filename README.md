@@ -18,13 +18,3 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&ide_border=true&layout=compact&langs_count=10"/>
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moein-shafi&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&layout=compact&langs_count=9&hide=css,html,tex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moein-shafi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
