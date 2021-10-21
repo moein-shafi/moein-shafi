@@ -6,6 +6,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MoeinShafi)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=moein-shafi)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moein-shafi&layout=compac&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
