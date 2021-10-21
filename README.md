@@ -15,6 +15,6 @@
 
 <p>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=moein-shafi&show_icons=true&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&ide_border=true&layout=compact&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&layout=compact&langs_count=10&ide_border=true"/>
 </p>
 
