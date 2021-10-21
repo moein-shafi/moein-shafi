@@ -14,7 +14,7 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=moein-shafi&show_icons=true&hide_border=true" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&layout=compact&langs_count=10&hide_border=true"/>
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=moein-shafi&show_icons=true&hide_border=true" />
+  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-shafi&layout=compact&langs_count=10&hide_border=true"/>
 </p>
 
